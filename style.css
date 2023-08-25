@@ -1,0 +1,307 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    
+}
+/* nav */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque ;
+    padding: 20px 50px;
+}
+
+header nav h1{}
+h1{
+    font-size: 45px;
+    color: black;
+    font-weight: 700;
+}
+.navg{
+    color: rgb(235, 66, 123);
+}
+header nav ul{
+    display: flex;
+    
+
+}
+nav ul li{ list-style: none;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 43px;
+} 
+.follow-us{
+    display: flex;
+    justify-content: center;
+
+}
+/* nav end */
+
+/* Webview1 start */
+.webview1{
+    display: flex;
+    margin-bottom: 10;
+}
+.goat{
+    width: 50%;
+    align-items: center;
+    margin: 200px;
+    
+}
+
+.goath1{
+color: #F948B2;
+font-weight: 600px;
+}
+.goat-button{
+    display: flex;
+    justify-content: space-between;
+}
+.signin-btn{
+    border-radius: 15px;
+    background-color: rgb(245, 58, 189);
+    color: rgb(243, 243, 237);
+    width: 100px;
+    height: 44px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.gorogue-btn{
+    border-radius: 15px;
+    background-color: rgb(90, 217, 237);
+    color: rgb(243, 243, 237);
+    width: 100px;
+    height: 44px;
+    border: none;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.GOAT-IMG{
+    
+}
+
+/* Webview1 end */
+
+/* Webview2 start */
+.webview2{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+.pngwing4{
+    width: 50%;
+}
+.we-are-gamer-h2{
+    color: blueviolet;
+}
+.we-are-gamer{
+    width: 50%;
+    margin: 50px;
+    margin-top: 100;
+    text-align: right;
+}
+.knowmore-button{
+    border-radius: 15%;
+    background-color: rgb(255, 120, 223);
+    width: 100px;
+    height: 45px;
+    border: none;
+    margin-top: 15px;
+    color: antiquewhite;
+    margin-bottom: 15px;}
+
+/* Webview2 end */
+
+/* webview 03 */
+.online{
+    text-align: center;
+    margin-top: 50px;
+    margin: 30px;
+}
+.onlineH1{
+    color: blueviolet;
+
+}
+.online-img{display: flex;
+    
+    margin-top: 80px;
+    margin-left: 50px;
+    margin: 10px;
+}
+
+/* webview 03 end */
+
+/* webview 04 */
+.webview4{
+    display: flex;
+    margin-top: 45px;
+}
+.webview4-h2{
+    text-align: center;
+    margin-top: 70px;
+
+    margin-bottom: 50px;
+    width: 60%;
+
+}
+.webview4-h2-span{
+    color: #F948B2;
+}
+/* webview 04 end */
+
+/* webview 05 */
+.webview5{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+.wrbview5-img{
+    width: 300px;
+}
+
+.wrbview5-h2-span{
+    color: #F948B2;
+}
+.webview5-contant{
+    text-align: left;
+    margin-top: 70px;   
+}
+
+/* webview 05 end */
+
+/* webview 06 */
+.webview6{
+    display: flex;
+    width: 100%; 
+    background-color: aqua;
+    height: 470px;
+}
+.webview6-contant{
+    width: 50%;
+    margin-left: 80px;
+    margin-right: 60px;
+    margin-top: 80px;
+}
+.webview5-contant-01{
+    display: flex;
+    justify-content: space-between;
+     margin-bottom: 50px;
+     margin-top: 30px;
+     margin-right: 70px;
+}
+.webview5-contant-button{
+    width: 120px;
+    height: 30px;
+    margin-left: 150px;
+    background-color: #F948B2;
+    color: azure;
+    border: none;
+    border-radius: 10px;
+}
+
+.webview6-img{
+    margin-top: 44px;
+}
+/* webview 06 end */
+
+/* webview 07 */
+
+.mini-img{
+    display: grid;
+    grid-template-columns: repeat(5,4fr);
+    gap: 20px;
+    width: auto;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+
+}
+.mini-img-1{
+    display: flex;
+    align-items: center;
+}
+.mini-img-2{
+    display: flex;
+    align-items: center;
+}
+.mini-img-3{
+    display: flex;
+    align-items: center;
+}
+.mini-img-4{
+    display: flex;
+    align-items: center;
+}
+.mini-img-5{
+    display: flex;
+    align-items: center;
+}
+.mini-img-6{
+    display: flex;
+    align-items: center;
+}
+.mini-img-7{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.mini-img-8{
+    display: flex;
+    align-items: center;
+}
+.mini-img-9{
+    display: flex;
+    align-items: center;
+}
+
+/* webview 07 end */
+
+/* webview 08 */
+
+.webview8{
+    background-color: royalblue;
+    height: 500px;
+    margin-block: px;
+}
+.navg-01{color: #F948B2;}
+
+.webview8-h1{
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+.webview-2nd-line{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    gap: 40px;
+    margin-top: 60px;
+}
+.webview-img-3rd-line{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px;
+}
+.webview-4th-line{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    gap: 60px;
+
+}
+.webview-5th-line{
+    text-align: center;
+    margin-top: 80px;
+}
+
+/* webview 08 end */
+
